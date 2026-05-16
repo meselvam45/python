@@ -1,1 +1,1 @@
-print("goooooobiiiiiiiii")
+print("mukiiiiiiiiii")
